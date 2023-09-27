@@ -23,7 +23,16 @@
     ]
   },
   "work": [],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "Department of Computer Science and Technology, Tsinghua University",
+      "position": "Writing letters to Junior students, answering their questions",
+      "summary": "Exchange letters with junior students, sharing about our lives and answering their questions on their way of growing up.",
+      "startDate": "2022-09",
+      "endDate": "2023-07"
+    },
+    {}
+  ],
   "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",

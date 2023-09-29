@@ -5,7 +5,6 @@ description: An interdisciplinary project combining AI and music.
 img: #assets/img/musicals.png
 importance: 2
 category: AI research
-giscus_comments: true
 ---
 
 I collaborate with my classmate Zhuorui Ye on an interdisciplinary project “Musical Translation” for the course AI+X, advised by AI researchers Zhilin Yang, Chuang Gan, and professional musical translator He Cheng.

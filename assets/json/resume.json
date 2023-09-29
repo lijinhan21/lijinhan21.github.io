@@ -26,7 +26,7 @@
   "education": [
     {
       "institution": "Tsinghua University",
-      "url": "https://www.uzh.ch/",
+      "url": "",
       "area": "",
       "studyType": "Bachelor of Engineering in Computer Science",
       "startDate": "2021-08",
@@ -51,14 +51,44 @@
   ],
   "certificates": [],
   "publications": [],
+  "research": [
+    {
+      "institution": "Tsinghua University, Shanghai Qi Zhi Institute",
+      "url": "",
+      "area": "",
+      "studyType": "Quadrupedal Robots",
+      "startDate": "2023-06",
+      "endDate": "now",
+      "courses": [
+        "I worked on a project about quadrupedal robots together with a Ph.D. student, advised by Prof. Yi Wu. We trained the quadrupedal robot to stand up and perform agile bipedal “dancing” motions such as ballet via Reinforcement Learning. The robot can track the human motions from a video, or follow commands given by LLM based on natural language instructions.",
+        "Second-author paper *Learning Agile Bipedal Motions on a Quadrupedal Robot* was just submitted to ICRA 2024.",
+        "Currently working on an follow-up project trying to let quadrupedal robot learn more complex behaviors."
+      ]
+    },
+    {
+      "institution": "Tsinghua University",
+      "url": "",
+      "area": "",
+      "studyType": "Intersection of Natural Language Processing and Music",
+      "startDate": "2023-09",
+      "endDate": "now",
+      "courses": [
+        "I collaborate with my classmate Zhuorui Ye on an interdisciplinary project “Musical Translation” for the course AI+X, advised by AI researchers Zhilin Yang, Chuang Gan, and professional musical translator He Cheng.",
+        "We aim to finish this project by the end of the year and submit our results to ACL 2024."
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "Languages",
-      "keywords": "Chinese (Native), English (Fluent: Toefl 112, Reading 30, Listening 30, Speaking 24, Writing 28)"
+      "keywords": [
+        "Chinese (Native)",
+        "English (Fluent: Toefl 112, Reading 30, Listening 30, Speaking 24, Writing 28)"
+      ]
     },
     {
       "name": "Programming languages",
-      "keywords": "Python, C++, C"
+      "keywords": "Python, C++ (used to participate in coding contests), C"
     },
     {
       "name": "Libraries and tools",

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Safety stick for elders
+description: A ''Global Challenge Exchange'' project finished in 3 days.
+img: #assets/img/7.jpg
 importance: 3
 category: Social Projects
 ---

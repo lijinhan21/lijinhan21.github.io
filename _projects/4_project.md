@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Pod & i Platform 
+description: Project for Global Challenge Lab 22 (Climate Action) in "Agriculture and Land Sustainability" track.
 img:
 importance: 3
 category: Social Projects

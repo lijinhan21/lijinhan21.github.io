@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of my cool projects, including the AI research projects, social projects and fun projects.
 nav: true
 nav_order: 2
-display_categories: [AI research, Social Projects, Fun]
+display_categories: [AI research, Social Projects]
 horizontal: false
 ---
 

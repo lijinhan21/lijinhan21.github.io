@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Quadrupedal Robots
+description: A project about quadrupedal robots' agile bipedal motions.
+img: #assets/img/12.jpg
 importance: 1
 category: AI research
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications:
 ---
 
 Every project has a beautiful feature showcase page.

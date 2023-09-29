@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: About Me
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -9,16 +9,16 @@ profile:
   image: photo.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Yao Class 13, IIIS, Tsinghua</p>
+    <p>[Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) 13, [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua](https://www.tsinghua.edu.cn/en/)</p>
     <p>lijinhan21@mails.tsinghua.edu.cn</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Jinhan Li(李谨菡), a third-year undergraduate student majoring in Computer Science and Technology at IIIS, Tsinghua University (a.k.a. Yao Class, directed by Andrew Chi-Chih Yao).
+Hi! I am Jinhan Li(李谨菡), a third-year undergraduate student majoring in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua](https://www.tsinghua.edu.cn/en/) (a.k.a. [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

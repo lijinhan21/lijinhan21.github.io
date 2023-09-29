@@ -51,7 +51,20 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": "Chinese (Native), English (Fluent: Toefl 112, Reading 30, Listening 30, Speaking 24, Writing 28)"
+    },
+    {
+      "name": "Programming languages",
+      "keywords": "Python, C++, C"
+    },
+    {
+      "name": "Libraries and tools",
+      "keywords": "PyTorch, Git, LaTeX, Isaacgym"
+    }  
+  ],
   "volunteer": [
     {
       "organization": "Department of Computer Science and Technology, Tsinghua University",
@@ -75,16 +88,7 @@
       "endDate": "2022-01"
     }
   ],
-  "languages": [
-    {
-      "language": "Chinese",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []

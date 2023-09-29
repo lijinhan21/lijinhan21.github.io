@@ -9,7 +9,7 @@ profile:
   image: photo.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>[Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) 13, [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua](https://www.tsinghua.edu.cn/en/)</p>
+    <p>Yao Class 13, IIIS, Tsinghua</p>
     <p>lijinhan21@mails.tsinghua.edu.cn</p>
 
 news: false  # includes a list of news items
@@ -19,6 +19,8 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 Hi! I am Jinhan Li(李谨菡), a third-year undergraduate student majoring in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua](https://www.tsinghua.edu.cn/en/) (a.k.a. [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
+
+Currently, my research interests center on reinforcement learning, robotics, and the use of AI for social good. I'm intrigued by the rapid expansion of AI, but I also care deeply about where the path leads us and how these technologies affect society. I'm enthusiastic about using AI to solve actual real-world problems, such as creating robots that can be reliable companions for human, in the hope that my work can contribute to making a better society.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

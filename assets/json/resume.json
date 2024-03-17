@@ -47,6 +47,11 @@
       "title": "Honor for Volunteering",
       "date": "2022-10",
       "awarder": ""
+    },
+    {
+      "title": "Honor for Comprehensive Excellence",
+      "date": "2023-10",
+      "awarder": ""
     }
   ],
   "certificates": [],
@@ -60,8 +65,8 @@
       "startDate": "2023-09",
       "endDate": "now",
       "courses": [
-        "I collaborate with my classmate Zhuorui Ye on an interdisciplinary project “Musical Translation” for the course AI+X, advised by AI researchers Zhilin Yang, Chuang Gan, and professional musical translator He Cheng.",
-        "We aim to finish this project by the end of the year and submit our results to ACL 2024."
+        "I collaborate with my classmate Zhuorui Ye on an interdisciplinary project “Musical Translation”, advised by AI researcher Zhilin Yang and professional musical translator He Cheng. We proposed a method to translate lyrics in musicals from English to Chinese, satisfying both singability constraints such as length and rhyme, and translational constraints such as fluency and faithfulness to original lyrics. ",
+        "Co-first authored paper *Understandable and Singable Musical Lyrics Translation* was just submited to ACL 2024."
       ]
     },
     {
@@ -72,9 +77,10 @@
       "startDate": "2023-06",
       "endDate": "now",
       "courses": [
-        "I worked on a project about quadrupedal robots together with a Ph.D. student, advised by Prof. Yi Wu. We trained the quadrupedal robot to stand up and perform agile bipedal “dancing” motions such as ballet via Reinforcement Learning. The robot can track the human motions from a video, or follow commands given by LLM based on natural language instructions.",
-        "Second-author paper *Learning Agile Bipedal Motions on a Quadrupedal Robot* was just submitted to ICRA 2024.",
-        "Currently working on an follow-up project trying to let quadrupedal robot learn more complex behaviors."
+        "I worked on two projects about quadrupedal robots together with a Ph.D. student, advised by Prof. Yi Wu.",
+        "In the first project, we trained the quadrupedal robot to stand up and perform agile bipedal “dancing” motions such as ballet via Reinforcement Learning. The robot can track the human motions from a video, or follow commands given by LLM based on natural language instructions.",
+        "Second-author paper *Learning Agile Bipedal Motions on a Quadrupedal Robot* was admitted in ICRA 2024.",
+        "The second project is about expanding the capability of quadrupedal robots, and allowing it to solve long-horizon tasks using large language models."
       ]
     }
   ],

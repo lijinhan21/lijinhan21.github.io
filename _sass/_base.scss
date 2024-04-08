@@ -4,27 +4,12 @@
 
 // Typography
 
-html {
-  font-size: 17px; /* Set your desired font size */
-}
-
-em, div, span {
+p, em, div, li, span {
   color: var(--global-text-color);
-  font-family: 'Cambria', serif;
+  font-family: Georgia;
 }
 
-p, li{
-  color: var(--global-text-color);
-  font-family: 'Cambria', serif;
-}
-
-b, strong{
-  font-weight: bold;
-  color: var(--global-text-color);
-  font-family: 'Cambria', serif;
-}
-
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h4, h5, h6, b, strong {
   font-weight: bold;
 }
 
@@ -33,36 +18,26 @@ hr {
 }
 
 table {
-  td,
-  th {
-    font-size: 1rem;
+  td, th {
+    color: var(--global-text-color);
   }
-
-  th {
-    font-weight: bold;
+  td {
+    font-size: 1rem;
   }
 }
 
-a,
-table.table a {
+a, table.table a {
   color: var(--global-theme-color);
-
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
   }
-
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
 }
 
-.table-dark {
-  background-color: transparent;
-}
-
-figure,
-img {
+figure, img {
   max-width: 90vw;
 }
 

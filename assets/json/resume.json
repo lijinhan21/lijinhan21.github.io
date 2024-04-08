@@ -31,7 +31,7 @@
       "studyType": "Bachelor of Engineering in Computer Science",
       "startDate": "2021-08",
       "endDate": "now",
-      "score": "3.82/4.00",
+      "score": "3.83/4.00",
       "courses": [
         "Yao Class 13, Institute for Interdisciplinary Information Sciences (IIIS)"
       ]
@@ -44,12 +44,13 @@
       "awarder": ""
     },
     {
-      "title": "Honor for Volunteering",
+      "title": "School Scholarship on Volunteering",
       "date": "2022-10",
       "awarder": ""
     },
     {
-      "title": "Honor for Comprehensive Excellence",
+      "title": "Tsinghua University Comprehensive Excellence Scholarship",
+
       "date": "2023-10",
       "awarder": ""
     }
@@ -63,10 +64,10 @@
       "area": "",
       "studyType": "Intersection of Natural Language Processing and Music",
       "startDate": "2023-09",
-      "endDate": "now",
+      "endDate": "2024-02",
       "courses": [
-        "I collaborate with my classmate Zhuorui Ye on an interdisciplinary project “Musical Translation”, advised by AI researcher Zhilin Yang and professional musical translator He Cheng. We proposed a method to translate lyrics in musicals from English to Chinese, satisfying both singability constraints such as length and rhyme, and translational constraints such as fluency and faithfulness to original lyrics. ",
-        "Co-first authored paper *Understandable and Singable Musical Lyrics Translation* was just submited to ACL 2024."
+        "I collaborate with my classmate Zhuorui Ye on an interdisciplinary project “Musical Translation”, advised by Zhilin Yang and professional musical translator He Cheng. We proposed a method to translate lyrics in musicals from English to Chinese, satisfying both singability constraints such as length and rhyme, and translational constraints such as fluency and faithfulness to original lyrics. ",
+        "Co-first authored paper was just submited to ACL 2024."
       ]
     },
     {
@@ -75,12 +76,11 @@
       "area": "",
       "studyType": "Quadrupedal Robots",
       "startDate": "2023-06",
-      "endDate": "now",
+      "endDate": "2024-02",
       "courses": [
-        "I worked on two projects about quadrupedal robots together with a Ph.D. student, advised by Prof. Yi Wu.",
+        "I worked on two projects about quadrupedal robots.",
         "In the first project, we trained the quadrupedal robot to stand up and perform agile bipedal “dancing” motions such as ballet via Reinforcement Learning. The robot can track the human motions from a video, or follow commands given by LLM based on natural language instructions.",
-        "Second-author paper *Learning Agile Bipedal Motions on a Quadrupedal Robot* was admitted in ICRA 2024.",
-        "The second project is about expanding the capability of quadrupedal robots, and allowing it to solve long-horizon tasks using large language models."
+        "The second project is about expanding the capability of quadrupedal robots to perform complex locomotion and manipulation tasks."
       ]
     }
   ],

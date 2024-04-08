@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: CV_Jinhan Li.pdf
+cv_pdf: None
 description: 
 toc:
   sidebar: left

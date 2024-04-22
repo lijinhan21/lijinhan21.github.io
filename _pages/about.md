@@ -18,9 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Jinhan Li(李谨菡), a third-year undergraduate student majoring in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua](https://www.tsinghua.edu.cn/en/) (a.k.a. [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
+I am Jinhan Li(李谨菡), a third-year undergraduate student majoring in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua](https://www.tsinghua.edu.cn/en/) (a.k.a. [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)). I'm now working as a student intern in Professor [Yuke Zhu](https://yukezhu.me/)'s group at [UT Austin](https://www.utexas.edu/). Previously, I was fortunate to work in Professor [Yi Wu](https://jxwuyi.weebly.com/)'s group at [IIIS](https://iiis.tsinghua.edu.cn/en/).
 
-Currently, my research interests center on reinforcement learning, robotics, and the use of AI for social good. I'm intrigued by the rapid expansion of AI, but I also care deeply about where the path leads us and how these technologies affect society. I'm enthusiastic about using AI to solve actual real-world problems, such as creating robots that can be reliable companions for human, in the hope that my work can contribute to making a better society.
+My research interests center on machine learning and robotics. I'm enthusiastic about using AI to solve real-world problems, such as creating robots that can be reliable companions for human, in the hope that my work can contribute to making a better society.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Jinhan Li",
-    "label": "Third-year Undergraduate Student",
     "image": "",
     "email": "lijinhan21@mails.tsinghua.edu.cn",
     "phone": "+86-18910376621",
@@ -35,12 +34,34 @@
       "courses": [
         "Yao Class 13, Institute for Interdisciplinary Information Sciences (IIIS)"
       ]
+    },
+    {
+      "institution": "The University of Texas at Autin",
+      "url": "",
+      "area": "",
+      "studyType": "Visiting Student",
+      "startDate": "2024-02",
+      "endDate": "2024-08",
+      "score": "",
+      "courses": [
+        "Visiting researcher in Professor Yuke Zhu's lab."
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Silver Medal in National Olympiad in Informatics (NOI) 2020",
-      "date": "2020-08",
+      "title": "Yao Award, Recognition Prize (Top 20% in Yao Class)",
+      "date": "2024-8",
+      "awarder": ""
+    },
+    {
+      "title": "Sensetime Scholarship Nomination Prize",
+      "date": "2024-6",
+      "awarder": ""
+    },
+    {
+      "title": "Tsinghua University Comprehensive Excellence Scholarship (Top 20%)",
+      "date": "2023-10",
       "awarder": ""
     },
     {
@@ -49,39 +70,14 @@
       "awarder": ""
     },
     {
-      "title": "Tsinghua University Comprehensive Excellence Scholarship",
-
-      "date": "2023-10",
+      "title": "Silver Medal in National Olympiad in Informatics (NOI) 2020",
+      "date": "2020-08",
       "awarder": ""
     }
   ],
   "certificates": [],
   "publications": [],
-  "research": [
-    {
-      "institution": "Tsinghua University",
-      "url": "",
-      "area": "",
-      "studyType": "Intersection of NLP and Musicals",
-      "startDate": "2023-09",
-      "endDate": "2024-02",
-      "courses": [
-        "I collaborate with my classmate Zhuorui Ye on an interdisciplinary project “Musical Translation”, advised by Zhilin Yang and professional musical translator He Cheng. We proposed a method to translate lyrics in musicals from English to Chinese."
-      ]
-    },
-    {
-      "institution": "Tsinghua University, Shanghai Qi Zhi Institute",
-      "url": "",
-      "area": "",
-      "studyType": "Quadrupedal Robots",
-      "startDate": "2023-06",
-      "endDate": "2024-02",
-      "courses": [
-        "In the first project, we trained the quadrupedal robot to stand up and perform agile bipedal “dancing” motions such as ballet via Reinforcement Learning. The robot can track the human motions from a video, or follow commands given by LLM based on natural language instructions.",
-        "The second project is about expanding the capability of quadrupedal robots to perform complex locomotion and manipulation tasks."
-      ]
-    }
-  ],
+  "research": [],
   "skills": [
     {
       "name": "Languages",
@@ -99,29 +95,7 @@
       "keywords": "PyTorch, Git, LaTeX, Isaacgym"
     }  
   ],
-  "volunteer": [
-    {
-      "organization": "Department of Computer Science and Technology, Tsinghua University",
-      "position": "Inspire letters exchange project",
-      "summary": "Exchange letters with junior students, sharing our lives and answering their questions about school and daily life.",
-      "startDate": "2022-09",
-      "endDate": "2023-07"
-    },
-    {
-      "organization": "Tsinghua Small Animal Protection Association",
-      "position": "Feeding stray cats during summer break",
-      "summary": "Feeding stray cats in our school during summer break, when their normal feeders are not in campus.",
-      "startDate": "2022-08",
-      "endDate": "2023-09"
-    },
-    {
-      "organization": "Department of Computer Science and Technology, Tsinghua University",
-      "position": "Program Buddy project",
-      "summary": "Help students from other departments with their coding homework and project, answering their questions, helping them debug or find valuable resources.",
-      "startDate": "2021-10",
-      "endDate": "2022-01"
-    }
-  ],
+  "volunteer": [],
   "languages": [],
   "interests": [],
   "references": [],

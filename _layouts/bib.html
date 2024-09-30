@@ -134,6 +134,13 @@
           {{ entry.note | strip }}
         </div>
 
+          {% if entry.award %}
+            <!-- Award block -->
+            <div class="award d-print-inline">
+              <p>{{ entry.award | markdownify }}</p>
+            </div>
+          {% endif %}
+
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
@@ -216,13 +223,6 @@
             {%- endif %}
           </div>
           {%- endif %}
-
-          {% if entry.award %}
-            <!-- Award block -->
-            <div class="award d-print-inline">
-              <p>{{ entry.award | markdownify }}</p>
-            </div>
-          {% endif %}
 
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->

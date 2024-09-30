@@ -624,7 +624,8 @@ footer.sticky-bottom {
         }
 
         .award {
-          color: var(--global-theme-color) !important;
+          color: rgb(245, 10, 10);
+          // var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
         }
       }

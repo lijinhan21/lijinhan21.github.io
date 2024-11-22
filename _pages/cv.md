@@ -4,6 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: None
+cv_pdf: CV_Jinhan Li-1122.pdf
 description: 
 ---

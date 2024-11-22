@@ -22,6 +22,8 @@ I am Jinhan Li(李谨菡), a senior-year undergraduate student majoring in Compu
 
 My research interests center on **machine learning** and **robot learning**, and my long-term goal is to create intelligent robots that can be reliable companions for human. I’m passionate about the following two directions: (1) leveraging human data for generalizable manipulation skill acquisition, and (2) adaptive robot learning through interactions with environments and humans.
 
+**I'm applying for a PhD position in 2025 Fall.** Feel free to drop me an email if you are interested in my research!
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.

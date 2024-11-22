@@ -30,7 +30,7 @@
       "studyType": "Bachelor of Engineering in Computer Science",
       "startDate": "2021-08",
       "endDate": "now",
-      "score": "3.83/4.00",
+      "score": "3.84/4.00",
       "courses": [
         "Yao Class 13, Institute for Interdisciplinary Information Sciences (IIIS)"
       ]
@@ -50,7 +50,12 @@
   ],
   "awards": [
     {
-      "title": "Yao Award, Recognition Prize (Top 20% in Yao Class)",
+      "title": "National Scholarship (Top 0.2% Nationwide)",
+      "date": "2024-10",
+      "awarder": ""
+    },
+    {
+      "title": "Yao Award, Recognition Prize (Top 20%)",
       "date": "2024-8",
       "awarder": ""
     },
@@ -83,11 +88,11 @@
     },
     {
       "name": "Programming languages",
-      "keywords": ["Python", "C++ (used to participate in coding contests)", "C"]
+      "keywords": ["Python", "C++ (used to participate in competitive programming)", "C"]
     },
     {
       "name": "Libraries and tools",
-      "keywords": "PyTorch, Git, LaTeX, Isaacgym"
+      "keywords": "PyTorch, Git, LaTeX, Isaacgym, MuJoCo"
     }  
   ],
   "volunteer": [],

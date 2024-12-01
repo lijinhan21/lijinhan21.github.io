@@ -11,6 +11,7 @@ profile:
   address: >
     <p>Yao Class 13, IIIS, Tsinghua</p>
     <p>lijinhan21@mails.tsinghua.edu.cn</p>
+    <span style="font-size: 0.75rem;"><p>Photo taken by <a href="https://cuizhuyefei.github.io">Zhuorui Ye</a>.</p></span>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

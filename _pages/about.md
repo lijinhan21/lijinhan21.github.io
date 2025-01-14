@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am Jinhan Li(李谨菡), a senior-year undergraduate student majoring in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua](https://www.tsinghua.edu.cn/en/) (a.k.a. [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)). I was fortunate to work as a student intern in Professor [Yuke Zhu](https://yukezhu.me/)'s group at [UT Austin](https://www.utexas.edu/). Previously, I was fortunate to work in Professor [Yi Wu](https://jxwuyi.weebly.com/)'s group at [IIIS](https://iiis.tsinghua.edu.cn/en/).
 
-My research interests center on **machine learning** and **robot learning**, and my long-term goal is to create intelligent robots that can be reliable companions for human. I’m passionate about the following two directions: (1) leveraging human data for generalizable manipulation skill acquisition, and (2) adaptive robot learning through interactions with environments and humans.
+My research interests center on **machine learning** and **robot learning**, and my long-term goal is to create intelligent robots that can be reliable companions for human. I’m passionate about the following two directions: (1) leveraging human data for robot manipulation skill acquisition, and (2) robot learning through interactions with environments and humans.
 
 **I'm applying for a PhD position in 2025 Fall.** Feel free to drop me an email if you are interested in my research!
 

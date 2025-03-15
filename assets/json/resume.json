@@ -1,95 +1,13 @@
 {
-  "basics": {
-    "name": "Jinhan Li",
-    "image": "",
-    "email": "lijinhan21@mails.tsinghua.edu.cn",
-    "phone": "+86-18910376621",
-    "url": "",
-    "summary": "",
-    "location": {
-      "address": "Tsinghua University",
-      "postalCode": "",
-      "city": "Beijing",
-      "countryCode": "China",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
-    ]
-  },
+  "basics": {},
+  "profiles": [],
   "work": [],
-  "education": [
-    {
-      "institution": "Tsinghua University",
-      "url": "",
-      "area": "",
-      "studyType": "Bachelor of Engineering in Computer Science",
-      "startDate": "2021-08",
-      "endDate": "now",
-      "score": "3.84/4.00",
-      "courses": [
-        "Yao Class 13, Institute for Interdisciplinary Information Sciences (IIIS)"
-      ]
-    },
-    {
-      "institution": "The University of Texas at Austin",
-      "url": "",
-      "area": "",
-      "studyType": "Visiting Student",
-      "startDate": "2024-02",
-      "endDate": "2024-08",
-      "score": "",
-      "courses": [
-        "Visiting researcher in Professor Yuke Zhu's lab."
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "National Scholarship (Top 0.2% Nationwide)",
-      "date": "2024-10",
-      "awarder": ""
-    },
-    {
-      "title": "Yao Award, Recognition Prize (Top 20%)",
-      "date": "2024-8",
-      "awarder": ""
-    },
-    {
-      "title": "Tsinghua University Comprehensive Excellence Scholarship (Top 20%)",
-      "date": "2023-10",
-      "awarder": ""
-    },
-    {
-      "title": "Silver Medal in National Olympiad in Informatics (NOI) 2020",
-      "date": "2020-08",
-      "awarder": ""
-    }
-  ],
+  "education": [],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "research": [],
-  "skills": [
-    {
-      "name": "Languages",
-      "keywords": [
-        "Chinese (Native)",
-        "English (Fluent: Toefl 112, Reading 30, Listening 30, Speaking 24, Writing 28)"
-      ]
-    },
-    {
-      "name": "Programming languages",
-      "keywords": ["Python", "C++ (used to participate in competitive programming)", "C"]
-    },
-    {
-      "name": "Libraries and tools",
-      "keywords": "PyTorch, Git, LaTeX, Isaacgym, MuJoCo"
-    }  
-  ],
+  "skills": [],
   "volunteer": [],
   "languages": [],
   "interests": [],

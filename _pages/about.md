@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Jinhan Li (李谨菡), a incoming PhD student at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Professor [Kaifeng Lyu](https://kaifeng.ac/). 
+I am Jinhan Li (李谨菡), a first-year PhD student at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Professor [Kaifeng Lyu](https://kaifeng.ac/). 
 I spent my undergraduate years in [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/). I was very fortunate to work as a student researcher in Professor [Yuke Zhu](https://yukezhu.me/)'s group at [UT Austin](https://www.utexas.edu/) and Professor [Yi Wu](https://jxwuyi.weebly.com/)'s group at [IIIS](https://iiis.tsinghua.edu.cn/en/).
 
 <!-- My research interests center on **machine learning** and **robot learning**, and my long-term goal is to create intelligent robots that can be reliable companions for human. I’m passionate about the following two directions: (1) leveraging human data for robot manipulation skill acquisition, and (2) robot learning through interactions with environments and humans. -->
